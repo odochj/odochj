@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @odochj
-I work in data, but since 99% of my work is business-sensitive, I'm planning on using Github to ask a bunch of silly questions no one asked for
+I'm an Analytics Engineer that is currently exploring socio-technical factors can impact the automation of Data Platforms.
+A lot of the projects that I'm currently pursuing can be seen through the lens of 'I've done the legwork of rallying my business towards a single ideology... so what now?"
+
+- [Data Ingestor](https://github.com/odochj/data-ingestor): What if any Source could become a Data Product?
+- [Data Transformer](https://github.com/odochj/data-transformer): To what extenr can you front-load Data Modelling by enforcing a business ontology? 
 
 
 
