@@ -5,10 +5,12 @@ A lot of the projects that I'm currently pursuing can be seen through the lens o
 
 - [Data Ingestor](https://github.com/odochj/data-ingestor): What if any Data Source could become a Data Product?
 - [Data Transformer](https://github.com/odochj/data-transformer): To what extent can you front-load Data Modelling by enforcing a business ontology?
-- [Librarian](https://github.com/odochj/librarian): A local-first llm-driven study guide generator based on your physical (or digital) library of non-fiction lit.
+- [Librarian](https://github.com/odochj/librarian): What if I could generate a curriculum tailored to my goals, using the books I already own?
 
 *Data Transformer* has been designed to feed directly off *Data Ingestor*, with the aim of these being able to form the core of a flexible, composable Data Platform. 
 Later additions are likely to incorporate Semantic Layers, Data Visualisation and Machine Learning processes.
+
+*Librarian* is a standalone project, focused on my own personal development.
 
 **Disclaimer:**  
 All views, opinions, and code presented in this Github account are solely my own and do not represent those of any current or past employer
