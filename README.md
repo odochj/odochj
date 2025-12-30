@@ -4,7 +4,8 @@ I'm an Analytics Engineer currently exploring how socio-technical factors can im
 A lot of the projects that I'm currently pursuing can be seen through the lens of "I've done the legwork of rallying my business towards a single ideology... what now?"
 
 - [Data Ingestor](https://github.com/odochj/data-ingestor): What if any Data Source could become a Data Product?
-- [Data Transformer](https://github.com/odochj/data-transformer): To what extent can you front-load Data Modelling by enforcing a business ontology? 
+- [Data Transformer](https://github.com/odochj/data-transformer): To what extent can you front-load Data Modelling by enforcing a business ontology?
+- [Librarian](https://github.com/odochj/librarian): A local-first llm-driven study guide generator based on your physical (or digital) library of non-fiction lit.
 
 *Data Transformer* has been designed to feed directly off *Data Ingestor*, with the aim of these being able to form the core of a flexible, composable Data Platform. 
 Later additions are likely to incorporate Semantic Layers, Data Visualisation and Machine Learning processes.
